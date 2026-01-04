@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Tamheed Nazir
 
 ### Co-founder & Platform Lead @ [Blockrium Network](https://blockrium.com)
+### Founder @ [Yatriwala.com](https://yatriwala.com) & [YatriwalaHolidays.com](https://yatriwalaholidays.com)
 **Blockchain Platform Lead | Web3 Product Manager | Crypto Systems Architect**
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tamheednazeer)
@@ -16,17 +17,19 @@
 
 ## 🚀 About Me
 
-I'm a **product-focused Web3 and technology leader** with experience building and scaling consumer and B2B platforms across crypto, AI, and travel-tech. I built **Blockrium**, a Web3 platform with **200,000+ organic app downloads** without paid marketing. 
+I'm a **product-focused Web3 and technology leader** with experience building and scaling consumer and B2B platforms across crypto, AI, and travel-tech. I built **Blockrium**, a Web3 platform with **200,000+ organic app downloads** without paid marketing, and founded **Yatriwala**, a comprehensive travel-tech platform serving B2B and B2C markets.
 
 Currently seeking **platform, product, or technical leadership roles** in crypto exchanges and technology companies.
 
 ### 🎯 Key Highlights:
 - 🏗️ **Co-founded Blockrium Network** - Mobile-first Web3 platform with 200K+ downloads
+- ✈️ **Founded Yatriwala.com** - Travel-Tech platform (flights, hotels, visas, holidays)
+- 🏔️ **Founded YatriwalaHolidays.com** - Kashmir tourism & holiday packages platform
 - 📈 **Scaled to 50,000+ community followers** across platforms organically
 - 🤖 **Implemented AI-powered anti-bot systems** reducing fraud significantly
 - 💼 **Led product strategy** for DeFi launchpad, staking, and governance modules
 - 🔐 **Designed tokenomics** including vesting schedules and transaction mechanisms
-- 🌐 **Multi-platform experience** across Web3, AI, and Travel-Tech sectors
+- 🌐 **Multi-platform founder** across Web3, AI, and Travel-Tech sectors
 
 ---
 
@@ -44,20 +47,22 @@ Currently seeking **platform, product, or technical leadership roles** in crypto
 - Coordinated testing, audits, and performance optimization for **exchange-grade standards**
 
 ### 🔷 Yatriwala.com | *Jan 2022 - Present*
-**Product & Platform Operations Lead (Travel-Tech | B2B & B2C)**
+**Founder & Product Lead (Travel-Tech | B2B & B2C)**
 
-- Managed travel-tech platform offering **flights, hotels, visas, and holiday services**
-- Handled product workflows, backend integrations, and **GDS (Amadeus)** systems
-- Supported system scalability, customer data handling, and service automation
-- Optimized platform performance and partner onboarding processes
+- **Founded and built** travel-tech platform offering **flights, hotels, visas, and holiday services**
+- Managed product workflows, backend integrations, and **GDS (Amadeus)** systems
+- Led system scalability, customer data handling, and service automation
+- Drove platform optimization, process automation, and partner onboarding
+- Built B2B and B2C user flows for seamless booking experiences
 
 ### 🔷 YatriwalaHolidays.com | *Jan 2019 - 2022*
 **Founder & Digital Growth Lead**
 
-- Built and managed holiday packages platform focused on **Kashmir and domestic tourism**
+- **Founded and managed** holiday packages platform focused on **Kashmir and domestic tourism**
 - Led digital growth strategy: **SEO, organic social media, WhatsApp funnels**
-- Designed product offerings, pricing structures, and conversion flows
-- Improved lead conversion through optimized user journeys
+- Designed product offerings, pricing structures, itineraries, and conversion flows
+- Improved lead conversion and repeat bookings through optimized user journeys
+- Built community-driven sales model with high customer retention
 
 ---
 
@@ -105,14 +110,30 @@ Currently seeking **platform, product, or technical leadership roles** in crypto
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects & Companies
 
 ### 🚀 [Blockrium App](https://blockrium.com)
-**Web3 Rewards & DeFi Launchpad Platform**
+**Web3 Rewards & DeFi Launchpad Platform | Co-founder**
 - 200,000+ organic downloads without paid marketing
 - AI-powered anti-fraud and task verification systems
 - Cloud-based reward logic and governance modules
 - **Tech:** Web3, AI, Ethereum, Polygon, React Native
+
+### ✈️ [Yatriwala.com](https://yatriwala.com)
+**Travel-Tech Platform | Founder**
+- Comprehensive B2B & B2C travel platform
+- Flights, hotels, visas, and holiday services
+- GDS (Amadeus) integration for real-time bookings
+- Automated workflows and partner management
+- **Tech:** Travel APIs, GDS Integration, Backend Systems
+
+### 🏔️ [YatriwalaHolidays.com](https://yatriwalaholidays.com)
+**Kashmir Tourism & Holiday Packages | Founder**
+- Specialized holiday packages for Kashmir and domestic tourism
+- Organic growth through SEO and social media
+- WhatsApp funnel-based sales automation
+- High customer retention and repeat bookings
+- **Tech:** Digital Marketing, CRM, Booking Systems
 
 ### 🔐 [FileGuard](https://github.com/IamTamheedNazir/FileGuard)
 **Decentralized File Storage & Sharing Platform**
@@ -141,7 +162,6 @@ Currently seeking **platform, product, or technical leadership roles** in crypto
 - **Tech:** Blockchain, Content Distribution
 
 ### 🛒 Additional Platforms
-- **Yatriwala.com** - Travel-Tech B2B & B2C Platform
 - **Bizodash.com** - Business Dashboard Solution
 - **Albuy** - Multivendor Ecommerce Marketplace
 
@@ -184,13 +204,16 @@ Currently seeking **platform, product, or technical leadership roles** in crypto
 ## 🏆 Key Achievements
 
 - 🚀 **Co-founded Blockrium Network** - Leading Web3 platform
+- ✈️ **Founded Yatriwala.com** - Travel-Tech B2B & B2C platform
+- 🏔️ **Founded YatriwalaHolidays.com** - Kashmir tourism platform
 - 📱 **200,000+ organic app downloads** - Zero paid marketing
 - 👥 **50,000+ community followers** - Organic growth across platforms
 - 🤖 **AI-powered anti-fraud systems** - Significantly reduced platform abuse
 - 💼 **Exchange-grade platform** - Prepared for institutional standards
-- 🌐 **Multi-platform leadership** - Web3, AI, and Travel-Tech experience
+- 🌐 **Multi-platform founder** - Web3, AI, and Travel-Tech experience
 - 🔐 **Tokenomics design** - Complete economic model implementation
 - 📈 **Product-market fit** - Scaled multiple platforms successfully
+- 🎯 **Entrepreneurial success** - Built and scaled 3 companies
 
 ---
 
@@ -228,11 +251,13 @@ I'm actively seeking **platform, product, or technical leadership roles** in cry
 - 🚀 **Technical leadership** in blockchain companies
 - 🤝 **Collaboration** on innovative Web3 projects
 - 🎓 **Mentorship** for aspiring blockchain developers
+- 💼 **Business partnerships** in Travel-Tech or Web3
 
 ### 📬 Reach out:
 - 📧 Email: [tamheednazir1@gmail.com](mailto:tamheednazir1@gmail.com)
 - 🐦 Twitter: [@tamheednazeer](https://twitter.com/tamheednazeer)
-- 🌐 Website: [blockrium.com](https://blockrium.com)
+- 🌐 Blockrium: [blockrium.com](https://blockrium.com)
+- ✈️ Yatriwala: [yatriwala.com](https://yatriwala.com)
 - 📍 Location: Budgam, India 🇮🇳
 
 ---
@@ -250,15 +275,17 @@ I'm actively seeking **platform, product, or technical leadership roles** in cry
 ### 🌟 Fun Facts
 
 - 🎯 Built a 200K+ user platform with **zero marketing budget**
+- ✈️ Founded **two successful travel-tech companies**
 - 🤖 Passionate about **AI + Blockchain** integration
 - 🏔️ From the beautiful Kashmir valley
 - 🚀 Always exploring cutting-edge Web3 technologies
 - 📚 Active in STEM outreach - Innovation for Tomorrow program
+- 🌍 Building platforms that serve both **Web3 and traditional markets**
 
 ---
 
 **⭐ From [IamTamheedNazir](https://github.com/IamTamheedNazir) | Building the decentralized future, one block at a time 🔗**
 
-*"Seeking to leverage my experience in building and scaling Web3 platforms to drive innovation in crypto exchanges and blockchain technology companies."*
+*"Serial entrepreneur with proven track record in Web3 and Travel-Tech. Seeking to leverage my experience in building and scaling platforms to drive innovation in crypto exchanges and blockchain technology companies."*
 
 </div>
