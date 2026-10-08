@@ -6,10 +6,12 @@ I work primarily with Rust and Go, and enjoy building developer tools and backen
 
 ## Open-source contributions
 
+- [Solana web3.js #3966](https://github.com/solana-foundation/solana-web3.js/pull/3966) — Pins v1 installation examples in the maintenance documentation. **Merged**
+- [Agave #15841](https://github.com/anza-xyz/agave/pull/15841) — Returns rollback accounts in failed transaction simulation results. **Open**
 - [Solana Token-2022 #1535](https://github.com/solana-program/token-2022/pull/1535) — Adds custom encryption key files to `spl-token display --decrypt`. **Open**
 - [Trendyol go-pq-cdc-elasticsearch #36](https://github.com/Trendyol/go-pq-cdc-elasticsearch/pull/36) — Exposes PostgreSQL relation metadata to message handlers. **Open**
-
-Both pull requests are awaiting maintainer review.
+- [Reth #27731](https://github.com/paradigmxyz/reth/pull/27731) — Forwards updated peer addresses reported by discovery. **Open**
+- [wagmi #5257](https://github.com/wevm/wagmi/pull/5257) — Preserves the active connection when another connector disconnects. **Open**
 
 ## Selected projects
 
